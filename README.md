@@ -97,7 +97,3 @@ El archivo `main.xml` resultante será similar a este:
 
 - El array JSON que contiene los nuevos nodos debe estar correctamente escapado si lo pasas por la línea de comandos. Asegúrate de usar comillas dobles y de que el formato JSON sea válido.
 - Puedes modificar el archivo XML original directamente, así que asegúrate de hacer una copia de seguridad si es necesario.
-
----
-
-Este archivo `README.md` te dará una guía clara sobre cómo usar el script para duplicar nodos dentro de un archivo XML utilizando parámetros en la línea de comandos.
