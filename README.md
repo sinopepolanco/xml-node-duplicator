@@ -1,7 +1,3 @@
-Aquí tienes un `README.md` que incluye la guía de uso para tu aplicación de manipulación de XML:
-
----
-
 # NodeJS XML Node Duplicator
 
 Este proyecto es una aplicación en Node.js que permite buscar un nodo `admin-object` dentro de un archivo XML, duplicarlo y modificar sus atributos según los valores proporcionados por el usuario a través de la línea de comandos. Además, la aplicación permite duplicar el nodo múltiples veces usando un array de valores para crear múltiples duplicados con diferentes configuraciones.
