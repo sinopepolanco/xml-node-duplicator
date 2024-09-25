@@ -1,0 +1,17 @@
+{
+  "name": "xml-node-duplicator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.8",
+    "xml2js": "^0.6.2"
+  }
+}
